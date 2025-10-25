@@ -1,7 +1,8 @@
-# TrungLe
-<!-- DevOps Infinity Loop -->
+
 <div align="center">
-♾️ <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="80" height="80">
+<!-- DevOps Infinity Loop -->
+<img src="https://skillicons.dev/icons?i=githubactions,terraform,docker,ansible" width="200">
+
 </div>
 
 
