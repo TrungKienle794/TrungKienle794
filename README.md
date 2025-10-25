@@ -1,6 +1,8 @@
 # TrungLe
-<!-- DevOps Infinity Loop -->
-<img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="80" height="80">
+<div align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="80" height="80">
+</div>
+
 
 
 
