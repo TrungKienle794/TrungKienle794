@@ -19,7 +19,7 @@ I’m still building my technical foundation, I enjoy learning Automation and Cr
 ### 🧠 A little about me
 - 🌎 I'm based in Houston, TX  
 - 🧩 I'm learning Devops, Automation, Java, and Python
-- 🌲 I like hiking and Gym  
+- 🌲 I like Basketball and Gym  
 
 
 ---
