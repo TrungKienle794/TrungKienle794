@@ -1,6 +1,7 @@
 # TrungLe
 <!-- DevOps Infinity Loop -->
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Devops-Dark.svg" width="80" height="80">
+<img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="80" height="80">
+
 
 
 # 👋 Hello, I'm Trung  
